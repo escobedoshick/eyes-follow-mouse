@@ -10,5 +10,5 @@ document.onmousemove = function(){
     balls[i].style.left = x;
     balls[i].style.top = y;
     balls[i].style.transform = "translate(-"+x+",-"+y+")";
-  }.
+  }..
 }
